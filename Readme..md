@@ -42,6 +42,7 @@ Projede 4 adet Göktuğ fotoğrafı ve 4 adet farklı kişiye ait fotoğraf test
 Bu test setinde elde edilen doğruluk oranı **%100** olmuştur.
 
 > Bu sonuç yalnızca kullanılan küçük test veri setini temsil etmektedir. Daha büyük ve farklı koşullardaki veri setleriyle daha kapsamlı değerlendirme yapılması gerekir.
+>![Test Sonuçları](results.png)
 
 ## Threshold
 
